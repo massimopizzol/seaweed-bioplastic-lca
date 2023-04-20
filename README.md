@@ -12,7 +12,7 @@ Maddalen Ayala^1*, Marianne Thomsen^2, Massimo Pizzol^1
 			
 *Corresponding author e-mail: massimo@plan.aau.dk
 
-(https://doi.org/10.1016/j.algal.2023.103036)[https://doi.org/10.1016/j.algal.2023.103036]
+https://doi.org/10.1016/j.algal.2023.103036
 
 ## Structure of repository
 

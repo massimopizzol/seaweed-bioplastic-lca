@@ -21,6 +21,7 @@ _lci\_to\_bw2.py_ an importer for lci data in .csv into brightway_Seaweed-Biop
 
 **Data**
 _PS pilot (base).csv ;PS pilot (cellulose).csv ;PS pilot (mannitol).csv ;PS pilot (PLA5).csv ;PS pilot (PLA30).csv ;PS pilot.csv_  Several .csv files as inventory _Seaweed-plastic-inventory.xlsx_ The inventory in Excel
+_Seaweed-plastic-inventory-corrected.xlsx_ The inventory in Excel, corrected in 2023 [^1]
 **Figures**
 
 _Seaweed-plastic-plots.R_ R script to recreate the stochastic simulation figure 
@@ -32,4 +33,5 @@ _static_results.csv_ Results of the static LCA
 _mc\_CC\_biogenic.csv ;
 mc\_CC\_fossil.csv ;
 mc\_CC\_total\_summary\_stats.csv ;
-mc\_CC\_total.csv_ Results of the stochastic LCA_Differences.csv_ Pairwise differences across alternatives
+mc\_CC\_total.csv_ Results of the stochastic LCA_Differences.csv_ Pairwise differences across alternatives[^1]: The inventory in Excel after correction, see article _Corrigendum to “Life Cycle Assessment of pilot scale production of seaweed-based bioplastic” [Algal Res. 71 (2023) 103036]_ available here : [https://doi.org/10.1016/j.algal.2023.103313](https://doi.org/10.1016/j.algal.2023.103313)
+
